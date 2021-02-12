@@ -1,7 +1,8 @@
 # auth-template
 
-tsParticles Authentication Template
-tsParticles Simple Auth HTML Template for Websites
+Particles Authentication Template
+
+Particles Simple Auth HTML Template for Websites
 
 Login Page Preview
 login
@@ -14,9 +15,9 @@ register
 See working preview here
 
 What is tsParticles
-tsParticles is a lightweight library for easily creating particles animations in your websites or web applications.
+Particles is a lightweight library for easily creating particles animations in your websites or web applications.
 
-The tsParticles library is ready to be used in standard JavaScript, React, Vue.js, Angular, Svelte, jQuery, Preact, Inferno.
+The Particles library is ready to be used in standard JavaScript, React, Vue.js, Angular, Svelte, jQuery, Preact, Inferno.
 
 Want to see more particles demos? Checkout this collection
 
