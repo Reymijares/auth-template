@@ -22,3 +22,4 @@ The Particles library is ready to be used in standard JavaScript, React, Vue.js,
 Want to see more particles demos? Checkout this collection
 
 Want to see more templates or want to share yours? Checkout this README
+https://user-images.githubusercontent.com/77430962/107636622-de4f2880-6ca7-11eb-8153-4685a53adedb.png
